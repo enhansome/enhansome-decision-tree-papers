@@ -1,0 +1,838 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "TransBoost: A Boosting-Tree Kernel Transfer Learning Algorithm for Improving Financial Inclusion (AAAI 2022)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-01-31T03:12:01Z",
+                "owner": "yihengsun",
+                "repo": "TransBoost",
+                "stars": 42
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "A cautionary tale on fitting decision trees to data from additive models: generalization lower bounds (AISTATS 2022)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2021-09-28T00:59:39Z",
+                "owner": "aagarwal1996",
+                "repo": "additive_trees",
+                "stars": 2
+              }
+            }
+          ]
+        }
+      ],
+      "title": "2022"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Efficient Inference of Optimal Decision Trees (AAAI 2020)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2020-06-26T13:19:04Z",
+                "owner": "FlorentAvellaneda",
+                "repo": "InferDT",
+                "stars": 10
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Abstract Interpretation of Decision Tree Ensemble Classifiers (AAAI 2020)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2026-02-26T20:47:18Z",
+                "owner": "abstract-machine-learning",
+                "repo": "silva",
+                "stars": 7
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Oblique Decision Trees from Derivatives of ReLU Networks (ICLR 2020)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2021-04-27T17:23:45Z",
+                "owner": "guanghelee",
+                "repo": "iclr20-locally-constant-nets",
+                "stars": 21
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "The Tree Ensemble Layer: Differentiability meets Conditional Computation (ICML 2020)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-13T07:51:07Z",
+                "owner": "google-research",
+                "repo": "google-research",
+                "stars": 38528
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Generalized and Scalable Optimal Sparse Decision Trees (ICML 2020)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-04-27T15:02:09Z",
+                "owner": "xiyanghu",
+                "repo": "OSDT",
+                "stars": 109
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Born-Again Tree Ensembles (ICML 2020)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2023-07-06T22:00:22Z",
+                "owner": "vidalt",
+                "repo": "BA-Trees",
+                "stars": 69
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "PyDL8.5: a Library for Learning Optimal Decision Trees (IJCAI 2020)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2023-05-15T14:24:05Z",
+                "owner": "aia-uclouvain",
+                "repo": "pydl8.5",
+                "stars": 69
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "An Efficient Adversarial Attack for Tree Ensembles (NeurIPS 2020)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2021-06-06T22:51:51Z",
+                "owner": "chong-z",
+                "repo": "tree-ensemble-attack",
+                "stars": 23
+              }
+            }
+          ]
+        }
+      ],
+      "title": "2020"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "EDiT: Interpreting Ensemble Models via Compact Soft Decision Trees (ICDM 2019)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Paper]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2019-09-25T06:55:30Z",
+                "owner": "leesael",
+                "repo": "EDiT",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2019-09-25T06:55:30Z",
+                "owner": "leesael",
+                "repo": "EDiT",
+                "stars": 9
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Adaptive Neural Trees (ICML 2019)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2019-07-03T10:52:28Z",
+                "owner": "rtanno21609",
+                "repo": "AdaptiveNeuralTrees",
+                "stars": 156
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Robust Decision Trees Against Adversarial Examples (ICML 2019)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2025-07-12T01:42:12Z",
+                "owner": "chenhongge",
+                "repo": "RobustTrees",
+                "stars": 69
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "FAHT: An Adaptive Fairness-aware Decision Tree Classifier (IJCAI 2019)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2019-12-02T06:05:06Z",
+                "owner": "vanbanTruong",
+                "repo": "FAHT",
+                "stars": 7
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Inter-node Hellinger Distance based Decision Tree (IJCAI 2019)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[R Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "R",
+                "last_commit": "2015-06-15T18:17:28Z",
+                "owner": "kaurao",
+                "repo": "HDDT",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[Matlab Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Matlab",
+                "last_commit": "2016-10-10T18:24:20Z",
+                "owner": "ZDanielsResearch",
+                "repo": "HellingerTreesMatlab",
+                "stars": 2
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Gradient Boosting with Piece-Wise Linear Regression Trees (IJCAI 2019)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2024-04-15T16:36:16Z",
+                "owner": "GBDT-PL",
+                "repo": "GBDT-PL",
+                "stars": 159
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Tight Certificates of Adversarial Robustness for Randomly Smoothed Classifiers (NeurIPS 2019)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2019-11-16T04:06:50Z",
+                "owner": "guanghelee",
+                "repo": "neurips19-certificates-of-robustness",
+                "stars": 17
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Provably Robust Boosted Decision Stumps and Trees against Adversarial Attacks (NeurIPS 2019)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-04-25T20:01:40Z",
+                "owner": "max-andr",
+                "repo": "provably-robust-boosting",
+                "stars": 50
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Optimal Decision Tree with Noisy Outcomes (NeurIPS 2019)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2019-09-28T20:48:18Z",
+                "owner": "sjia1",
+                "repo": "ODT-with-noisy-outcomes",
+                "stars": 0
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Optimal Sparse Decision Trees (NeurIPS 2019)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-04-27T15:02:09Z",
+                "owner": "xiyanghu",
+                "repo": "OSDT",
+                "stars": 109
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "MonoForest framework for tree ensemble analysis (NeurIPS 2019)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-04-27T15:02:09Z",
+                "owner": "xiyanghu",
+                "repo": "OSDT",
+                "stars": 109
+              }
+            }
+          ]
+        }
+      ],
+      "title": "2019"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "MERCS: Multi-Directional Ensembles of Regression and Classification Trees (AAAI 2018)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2020-01-28T13:48:43Z",
+                "owner": "eliavw",
+                "repo": "mercs-v5",
+                "stars": 4
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Differential Performance Debugging With Discriminant Regression Trees (AAAI 2018)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2018-12-15T06:45:11Z",
+                "owner": "cuplv",
+                "repo": "DPDEBUGGER",
+                "stars": 1
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Generative Adversarial Image Synthesis With Decision Tree Latent Controller (CVPR 2018)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2018-08-29T02:48:17Z",
+                "owner": "LynnHo",
+                "repo": "DTLC-GAN-Tensorflow",
+                "stars": 12
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Enhancing Very Fast Decision Trees with Local Split-Time Predictions (ICDM 2018)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2018-06-08T13:11:39Z",
+                "owner": "ICDM2018Submission",
+                "repo": "VFDT-split-time-prediction",
+                "stars": 0
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Finding Influential Training Samples for Gradient Boosted Decision Trees (ICML 2018)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-05-28T11:15:44Z",
+                "owner": "bsharchilev",
+                "repo": "influence_boosting",
+                "stars": 68
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Extremely Fast Decision Tree (KDD 2018)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-10-22T19:44:19Z",
+                "owner": "doubleplusplus",
+                "repo": "incremental_decision_tree-CART-Random_Forest",
+                "stars": 104
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Multi-Layered Gradient Boosting Decision Trees (NIPS 2018)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2018-11-19T07:28:10Z",
+                "owner": "kingfengji",
+                "repo": "mGBDT",
+                "stars": 103
+              }
+            }
+          ]
+        }
+      ],
+      "title": "2018"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Gradient Boosted Decision Trees for High Dimensional Sparse Output (ICML 2017)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2018-04-15T23:38:47Z",
+                "owner": "springdaisy",
+                "repo": "GBDT",
+                "stars": 0
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Consistent Feature Attribution for Tree Ensembles (ICML 2017)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-11T21:52:04Z",
+                "owner": "shap",
+                "repo": "shap",
+                "stars": 25684
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "A Unified Approach to Interpreting Model Predictions (NIPS 2017)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-11T21:52:04Z",
+                "owner": "shap",
+                "repo": "shap",
+                "stars": 25684
+              }
+            }
+          ]
+        }
+      ],
+      "title": "2017"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "A Communication-Efficient Parallel Algorithm for Decision Tree (NIPS 2016)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-08-11T04:46:37Z",
+                "owner": "lightgbm-org",
+                "repo": "LightGBM",
+                "stars": 18680
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Exploiting CPU SIMD Extensions to Speed-up Document Scoring with Tree Ensembles (SIGIR 2016)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2016-08-11T14:16:07Z",
+                "owner": "hpclab",
+                "repo": "vectorized-quickscorer",
+                "stars": 2
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Post-Learning Optimization of Tree Ensembles for Efficient Ranking (SIGIR 2016)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2019-04-24T04:02:32Z",
+                "owner": "hpclab",
+                "repo": "quickrank",
+                "stars": 133
+              }
+            }
+          ]
+        }
+      ],
+      "title": "2016"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Face Alignment Using Cascade Gaussian Process Regression Trees (CVPR 2015)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2016-04-14T13:15:18Z",
+                "owner": "donghoonlee04",
+                "repo": "cGPRT",
+                "stars": 8
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "QuickScorer: A Fast Algorithm to Rank Documents with Additive Ensembles of Regression Trees (SIGIR 2015)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2019-04-24T04:02:32Z",
+                "owner": "hpclab",
+                "repo": "quickrank",
+                "stars": 133
+              }
+            }
+          ]
+        }
+      ],
+      "title": "2015"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T14:41:35.943Z",
+    "original_repository": "benedekrozemberczki/awesome-decision-tree-papers",
+    "original_repository_sha": "0be555e54858442bb55e7159fe5abc4442d5bfdf",
+    "enhanced_repository": "enhansome/enhansome-decision-tree-papers",
+    "enhanced_repository_description": null,
+    "title": "Awesome Decision, Classification, and Regression Tree Research Papers with stars"
+  }
+}
