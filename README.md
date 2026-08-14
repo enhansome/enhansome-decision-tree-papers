@@ -1,6 +1,6 @@
 # Awesome Decision, Classification, and Regression Tree Research Papers with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,251 | 🐛 100 | 📅 2026-06-30
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,638 | 🐛 100 | 📅 2026-06-30
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![repo size](https://img.shields.io/github/repo-size/benedekrozemberczki/awesome-decision-tree-papers.svg)](https://github.com/benedekrozemberczki/awesome-decision-tree-papers/archive/master.zip) ⭐ 2,474 | 🐛 3 | 🌐 Python | 📅 2025-12-28
 ![License](https://img.shields.io/github/license/benedekrozemberczki/awesome-decision-tree-papers.svg?color=blue) [![benedekrozemberczki](https://img.shields.io/twitter/follow/benrozemberczki?style=social\&logo=twitter)](https://twitter.com/intent/follow?screen_name=benrozemberczki)
@@ -40,7 +40,7 @@ A curated list of classification and regression tree research papers with implem
   * [IJCAI](https://www.ijcai.org/)
   * [UAI](http://www.auai.org/)
 
-Similar collections about [graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification) ⭐ 4,799 | 🐛 0 | 🌐 Python | 📅 2023-03-18, [gradient boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) ⭐ 1,049 | 🐛 3 | 🌐 Python | 📅 2026-01-05, [fraud detection](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) ⭐ 1,822 | 🐛 2 | 🌐 Python | 📅 2026-01-05, [Monte Carlo tree search](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers) ⭐ 713 | 🐛 0 | 🌐 Python | 📅 2026-01-13, and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) ⭐ 2,448 | 🐛 0 | 🌐 Python | 📅 2025-12-20 papers with implementations.
+Similar collections about [graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification) ⭐ 4,799 | 🐛 0 | 🌐 Python | 📅 2023-03-18, [gradient boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) ⭐ 1,049 | 🐛 3 | 🌐 Python | 📅 2026-01-05, [fraud detection](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) ⭐ 1,822 | 🐛 2 | 🌐 Python | 📅 2026-01-05, [Monte Carlo tree search](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers) ⭐ 713 | 🐛 0 | 🌐 Python | 📅 2026-01-13, and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) ⭐ 2,449 | 🐛 0 | 🌐 Python | 📅 2025-12-20 papers with implementations.
 
 ## 2022
 
@@ -633,7 +633,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   * [\[Paper\]](http://proceedings.mlr.press/v70/si17a.html)
 
 * **Consistent Feature Attribution for Tree Ensembles (ICML 2017)**
-  * [\[Code\]](https://github.com/slundberg/shap) ⭐ 25,684 | 🐛 1,017 | 🌐 Jupyter Notebook | 📅 2026-08-11
+  * [\[Code\]](https://github.com/slundberg/shap) ⭐ 25,682 | 🐛 1,015 | 🌐 Jupyter Notebook | 📅 2026-08-11
   * Scott M. Lundberg, Su-In Lee
   * [\[Paper\]](https://arxiv.org/abs/1706.06060)
 
@@ -656,7 +656,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   * [\[Paper\]](https://papers.nips.cc/paper/6646-variable-importance-using-decision-trees)
 
 * **A Unified Approach to Interpreting Model Predictions (NIPS 2017)**
-  * [\[Code\]](https://github.com/slundberg/shap) ⭐ 25,684 | 🐛 1,017 | 🌐 Jupyter Notebook | 📅 2026-08-11
+  * [\[Code\]](https://github.com/slundberg/shap) ⭐ 25,682 | 🐛 1,015 | 🌐 Jupyter Notebook | 📅 2026-08-11
   * Scott M. Lundberg, Su-In Lee
   * [\[Paper\]](https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions)
 
@@ -712,7 +712,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   * [\[Paper\]](https://papers.nips.cc/paper/6366-yggdrasil-an-optimized-system-for-training-deep-decision-trees-at-scale)
 
 * **A Communication-Efficient Parallel Algorithm for Decision Tree (NIPS 2016)**
-  * [\[Code\]](https://github.com/microsoft/LightGBM/blob/master/docs/Features.rst) ⭐ 18,680 | 🐛 512 | 🌐 C++ | 📅 2026-08-11
+  * [\[Code\]](https://github.com/microsoft/LightGBM/blob/master/docs/Features.rst) ⭐ 18,681 | 🐛 512 | 🌐 C++ | 📅 2026-08-11
   * Qi Meng, Guolin Ke, Taifeng Wang, Wei Chen, Qiwei Ye, Zhiming Ma, Tie-Yan Liu
   * [\[Paper\]](https://arxiv.org/abs/1611.01276)
 
@@ -1676,4 +1676,4 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
