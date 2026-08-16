@@ -1,6 +1,6 @@
 # Awesome Decision, Classification, and Regression Tree Research Papers with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,991 | 🐛 100 | 📅 2026-06-30
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 496,378 | 🐛 100 | 📅 2026-06-30
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![repo size](https://img.shields.io/github/repo-size/benedekrozemberczki/awesome-decision-tree-papers.svg)](https://github.com/benedekrozemberczki/awesome-decision-tree-papers/archive/master.zip) ⭐ 2,473 | 🐛 3 | 🌐 Python | 📅 2025-12-28
 ![License](https://img.shields.io/github/license/benedekrozemberczki/awesome-decision-tree-papers.svg?color=blue) [![benedekrozemberczki](https://img.shields.io/twitter/follow/benrozemberczki?style=social\&logo=twitter)](https://twitter.com/intent/follow?screen_name=benrozemberczki)
@@ -301,7 +301,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   * [\[Paper\]](https://arxiv.org/abs/2003.00360)
 
 * **The Tree Ensemble Layer: Differentiability meets Conditional Computation (ICML 2020)**
-  * [\[Code\]](https://github.com/google-research/google-research/tree/master/tf_trees) ⭐ 38,538 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-14
+  * [\[Code\]](https://github.com/google-research/google-research/tree/master/tf_trees) ⭐ 38,544 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-14
   * Hussein Hazimeh, Natalia Ponomareva, Petros Mol, Zhenyu Tan, Rahul Mazumder
   * [\[Paper\]](https://arxiv.org/abs/2002.07772)
 
@@ -633,7 +633,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   * [\[Paper\]](http://proceedings.mlr.press/v70/si17a.html)
 
 * **Consistent Feature Attribution for Tree Ensembles (ICML 2017)**
-  * [\[Code\]](https://github.com/slundberg/shap) ⭐ 25,683 | 🐛 1,014 | 🌐 Jupyter Notebook | 📅 2026-08-11
+  * [\[Code\]](https://github.com/slundberg/shap) ⭐ 25,686 | 🐛 1,013 | 🌐 Jupyter Notebook | 📅 2026-08-11
   * Scott M. Lundberg, Su-In Lee
   * [\[Paper\]](https://arxiv.org/abs/1706.06060)
 
@@ -656,7 +656,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   * [\[Paper\]](https://papers.nips.cc/paper/6646-variable-importance-using-decision-trees)
 
 * **A Unified Approach to Interpreting Model Predictions (NIPS 2017)**
-  * [\[Code\]](https://github.com/slundberg/shap) ⭐ 25,683 | 🐛 1,014 | 🌐 Jupyter Notebook | 📅 2026-08-11
+  * [\[Code\]](https://github.com/slundberg/shap) ⭐ 25,686 | 🐛 1,013 | 🌐 Jupyter Notebook | 📅 2026-08-11
   * Scott M. Lundberg, Su-In Lee
   * [\[Paper\]](https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions)
 
@@ -712,7 +712,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   * [\[Paper\]](https://papers.nips.cc/paper/6366-yggdrasil-an-optimized-system-for-training-deep-decision-trees-at-scale)
 
 * **A Communication-Efficient Parallel Algorithm for Decision Tree (NIPS 2016)**
-  * [\[Code\]](https://github.com/microsoft/LightGBM/blob/master/docs/Features.rst) ⭐ 18,684 | 🐛 512 | 🌐 C++ | 📅 2026-08-14
+  * [\[Code\]](https://github.com/microsoft/LightGBM/blob/master/docs/Features.rst) ⭐ 18,689 | 🐛 512 | 🌐 C++ | 📅 2026-08-14
   * Qi Meng, Guolin Ke, Taifeng Wang, Wei Chen, Qiwei Ye, Zhiming Ma, Tie-Yan Liu
   * [\[Paper\]](https://arxiv.org/abs/1611.01276)
 
@@ -1676,4 +1676,4 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._

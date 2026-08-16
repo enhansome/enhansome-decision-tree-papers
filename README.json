@@ -130,7 +130,7 @@
                 "last_commit": "2026-08-14T22:49:14Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38538
+                "stars": 38544
               }
             }
           ]
@@ -680,7 +680,7 @@
                 "last_commit": "2026-08-11T21:52:04Z",
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25683
+                "stars": 25686
               }
             }
           ]
@@ -701,7 +701,7 @@
                 "last_commit": "2026-08-11T21:52:04Z",
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25683
+                "stars": 25686
               }
             }
           ]
@@ -728,7 +728,7 @@
                 "last_commit": "2026-08-14T14:59:47Z",
                 "owner": "lightgbm-org",
                 "repo": "LightGBM",
-                "stars": 18684
+                "stars": 18689
               }
             }
           ]
@@ -828,7 +828,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T13:56:49.302Z",
+    "last_updated": "2026-08-16T13:57:13.565Z",
     "original_repository": "benedekrozemberczki/awesome-decision-tree-papers",
     "original_repository_sha": "0be555e54858442bb55e7159fe5abc4442d5bfdf",
     "enhanced_repository": "enhansome/enhansome-decision-tree-papers",
