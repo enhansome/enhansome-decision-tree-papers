@@ -130,7 +130,7 @@
                 "last_commit": "2026-08-16T18:45:46Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38562
+                "stars": 38573
               }
             }
           ]
@@ -680,7 +680,7 @@
                 "last_commit": "2026-08-11T21:52:04Z",
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25688
+                "stars": 25692
               }
             }
           ]
@@ -701,7 +701,7 @@
                 "last_commit": "2026-08-11T21:52:04Z",
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25688
+                "stars": 25692
               }
             }
           ]
@@ -725,10 +725,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "C++",
-                "last_commit": "2026-08-14T14:59:47Z",
+                "last_commit": "2026-08-18T12:03:32Z",
                 "owner": "lightgbm-org",
                 "repo": "LightGBM",
-                "stars": 18690
+                "stars": 18695
               }
             }
           ]
@@ -828,7 +828,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T14:04:27.290Z",
+    "last_updated": "2026-08-18T14:16:12.717Z",
     "original_repository": "benedekrozemberczki/awesome-decision-tree-papers",
     "original_repository_sha": "0be555e54858442bb55e7159fe5abc4442d5bfdf",
     "enhanced_repository": "enhansome/enhansome-decision-tree-papers",
