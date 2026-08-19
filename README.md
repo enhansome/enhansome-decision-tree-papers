@@ -1,6 +1,6 @@
 # Awesome Decision, Classification, and Regression Tree Research Papers with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,658 | 🐛 102 | 📅 2026-08-18
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,697 | 🐛 102 | 📅 2026-08-18
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![repo size](https://img.shields.io/github/repo-size/benedekrozemberczki/awesome-decision-tree-papers.svg)](https://github.com/benedekrozemberczki/awesome-decision-tree-papers/archive/master.zip) ⭐ 2,473 | 🐛 3 | 🌐 Python | 📅 2025-12-28
 ![License](https://img.shields.io/github/license/benedekrozemberczki/awesome-decision-tree-papers.svg?color=blue) [![benedekrozemberczki](https://img.shields.io/twitter/follow/benrozemberczki?style=social\&logo=twitter)](https://twitter.com/intent/follow?screen_name=benrozemberczki)
@@ -712,7 +712,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   * [\[Paper\]](https://papers.nips.cc/paper/6366-yggdrasil-an-optimized-system-for-training-deep-decision-trees-at-scale)
 
 * **A Communication-Efficient Parallel Algorithm for Decision Tree (NIPS 2016)**
-  * [\[Code\]](https://github.com/microsoft/LightGBM/blob/master/docs/Features.rst) ⭐ 18,699 | 🐛 512 | 🌐 C++ | 📅 2026-08-19
+  * [\[Code\]](https://github.com/microsoft/LightGBM/blob/master/docs/Features.rst) ⭐ 18,700 | 🐛 512 | 🌐 C++ | 📅 2026-08-19
   * Qi Meng, Guolin Ke, Taifeng Wang, Wei Chen, Qiwei Ye, Zhiming Ma, Tie-Yan Liu
   * [\[Paper\]](https://arxiv.org/abs/1611.01276)
 
