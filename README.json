@@ -136,7 +136,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38614
+                "stars": 38618
               }
             }
           ]
@@ -712,7 +712,7 @@
                 "last_commit": "2026-08-24T20:07:12Z",
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25699
+                "stars": 25701
               }
             }
           ]
@@ -734,7 +734,7 @@
                 "last_commit": "2026-08-24T20:07:12Z",
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25699
+                "stars": 25701
               }
             }
           ]
@@ -759,7 +759,7 @@
                 "archived": false,
                 "id": 64991887,
                 "language": "C++",
-                "last_commit": "2026-08-25T03:42:03Z",
+                "last_commit": "2026-08-25T14:10:01Z",
                 "owner": "lightgbm-org",
                 "repo": "LightGBM",
                 "stars": 18710
@@ -915,7 +915,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:55:10.505Z",
+    "last_updated": "2026-08-25T14:25:58.777Z",
     "original_repository": "benedekrozemberczki/awesome-decision-tree-papers",
     "original_repository_id": 186166778,
     "original_repository_sha": "0be555e54858442bb55e7159fe5abc4442d5bfdf",
