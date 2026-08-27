@@ -136,7 +136,7 @@
                 "last_commit": "2026-08-27T09:11:14Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38630
+                "stars": 38631
               }
             }
           ]
@@ -709,10 +709,10 @@
                 "archived": false,
                 "id": 74505259,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-24T20:07:12Z",
+                "last_commit": "2026-08-27T20:49:55Z",
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25706
+                "stars": 25707
               }
             }
           ]
@@ -731,10 +731,10 @@
                 "archived": false,
                 "id": 74505259,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-24T20:07:12Z",
+                "last_commit": "2026-08-27T20:49:55Z",
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25706
+                "stars": 25707
               }
             }
           ]
@@ -759,10 +759,10 @@
                 "archived": false,
                 "id": 64991887,
                 "language": "C++",
-                "last_commit": "2026-08-26T03:44:51Z",
+                "last_commit": "2026-08-27T20:31:25Z",
                 "owner": "lightgbm-org",
                 "repo": "LightGBM",
-                "stars": 18715
+                "stars": 18719
               }
             }
           ]
@@ -915,7 +915,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:33:37.245Z",
+    "last_updated": "2026-08-27T23:03:01.268Z",
     "original_repository_info": {
       "archived": false,
       "id": 186166778,
