@@ -21,7 +21,8 @@
                 "owner": "yihengsun",
                 "repo": "TransBoost",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T23:11:44.162Z"
             }
           ]
         },
@@ -43,7 +44,8 @@
                 "owner": "aagarwal1996",
                 "repo": "additive_trees",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:11:44.162Z"
             }
           ]
         }
@@ -71,7 +73,8 @@
                 "owner": "FlorentAvellaneda",
                 "repo": "InferDT",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T23:11:44.162Z"
             }
           ]
         },
@@ -93,7 +96,8 @@
                 "owner": "abstract-machine-learning",
                 "repo": "silva",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:11:44.162Z"
             }
           ]
         },
@@ -115,7 +119,8 @@
                 "owner": "guanghelee",
                 "repo": "iclr20-locally-constant-nets",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T23:11:44.162Z"
             }
           ]
         },
@@ -136,8 +141,9 @@
                 "last_commit": "2026-08-27T09:11:14Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38631
-              }
+                "stars": 38642
+              },
+              "first_seen": "2026-08-28T23:11:44.162Z"
             }
           ]
         },
@@ -159,7 +165,8 @@
                 "owner": "xiyanghu",
                 "repo": "OSDT",
                 "stars": 109
-              }
+              },
+              "first_seen": "2026-08-28T23:11:44.162Z"
             }
           ]
         },
@@ -181,7 +188,8 @@
                 "owner": "vidalt",
                 "repo": "BA-Trees",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T23:11:44.162Z"
             }
           ]
         },
@@ -203,7 +211,8 @@
                 "owner": "aia-uclouvain",
                 "repo": "pydl8.5",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T23:11:44.162Z"
             }
           ]
         },
@@ -225,7 +234,8 @@
                 "owner": "chong-z",
                 "repo": "tree-ensemble-attack",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T23:11:44.162Z"
             }
           ]
         }
@@ -253,7 +263,8 @@
                 "owner": "leesael",
                 "repo": "EDiT",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:11:44.162Z"
             },
             {
               "node_type": "item",
@@ -268,7 +279,8 @@
                 "owner": "leesael",
                 "repo": "EDiT",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:11:44.162Z"
             }
           ]
         },
@@ -290,7 +302,8 @@
                 "owner": "rtanno21609",
                 "repo": "AdaptiveNeuralTrees",
                 "stars": 156
-              }
+              },
+              "first_seen": "2026-08-28T23:11:44.162Z"
             }
           ]
         },
@@ -312,7 +325,8 @@
                 "owner": "chenhongge",
                 "repo": "RobustTrees",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T23:11:44.162Z"
             }
           ]
         },
@@ -334,7 +348,8 @@
                 "owner": "vanbanTruong",
                 "repo": "FAHT",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:11:44.162Z"
             }
           ]
         },
@@ -356,7 +371,8 @@
                 "owner": "kaurao",
                 "repo": "HDDT",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T23:11:44.162Z"
             },
             {
               "node_type": "item",
@@ -371,7 +387,8 @@
                 "owner": "ZDanielsResearch",
                 "repo": "HellingerTreesMatlab",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:11:44.162Z"
             }
           ]
         },
@@ -393,7 +410,8 @@
                 "owner": "GBDT-PL",
                 "repo": "GBDT-PL",
                 "stars": 159
-              }
+              },
+              "first_seen": "2026-08-28T23:11:44.162Z"
             }
           ]
         },
@@ -415,7 +433,8 @@
                 "owner": "guanghelee",
                 "repo": "neurips19-certificates-of-robustness",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T23:11:44.162Z"
             }
           ]
         },
@@ -437,7 +456,8 @@
                 "owner": "max-andr",
                 "repo": "provably-robust-boosting",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T23:11:44.162Z"
             }
           ]
         },
@@ -459,7 +479,8 @@
                 "owner": "sjia1",
                 "repo": "ODT-with-noisy-outcomes",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:11:44.162Z"
             }
           ]
         },
@@ -481,7 +502,8 @@
                 "owner": "xiyanghu",
                 "repo": "OSDT",
                 "stars": 109
-              }
+              },
+              "first_seen": "2026-08-28T23:11:44.162Z"
             }
           ]
         },
@@ -503,7 +525,8 @@
                 "owner": "xiyanghu",
                 "repo": "OSDT",
                 "stars": 109
-              }
+              },
+              "first_seen": "2026-08-28T23:11:44.162Z"
             }
           ]
         }
@@ -531,7 +554,8 @@
                 "owner": "eliavw",
                 "repo": "mercs-v5",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:11:44.162Z"
             }
           ]
         },
@@ -553,7 +577,8 @@
                 "owner": "cuplv",
                 "repo": "DPDEBUGGER",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:11:44.162Z"
             }
           ]
         },
@@ -575,7 +600,8 @@
                 "owner": "LynnHo",
                 "repo": "DTLC-GAN-Tensorflow",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T23:11:44.162Z"
             }
           ]
         },
@@ -597,7 +623,8 @@
                 "owner": "ICDM2018Submission",
                 "repo": "VFDT-split-time-prediction",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:11:44.162Z"
             }
           ]
         },
@@ -619,7 +646,8 @@
                 "owner": "bsharchilev",
                 "repo": "influence_boosting",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T23:11:44.162Z"
             }
           ]
         },
@@ -641,7 +669,8 @@
                 "owner": "doubleplusplus",
                 "repo": "incremental_decision_tree-CART-Random_Forest",
                 "stars": 104
-              }
+              },
+              "first_seen": "2026-08-28T23:11:44.162Z"
             }
           ]
         },
@@ -663,7 +692,8 @@
                 "owner": "kingfengji",
                 "repo": "mGBDT",
                 "stars": 103
-              }
+              },
+              "first_seen": "2026-08-28T23:11:44.162Z"
             }
           ]
         }
@@ -691,7 +721,8 @@
                 "owner": "springdaisy",
                 "repo": "GBDT",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:11:44.162Z"
             }
           ]
         },
@@ -709,11 +740,12 @@
                 "archived": false,
                 "id": 74505259,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-27T20:49:55Z",
+                "last_commit": "2026-08-28T21:30:09Z",
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25707
-              }
+                "stars": 25709
+              },
+              "first_seen": "2026-08-28T23:11:44.162Z"
             }
           ]
         },
@@ -731,11 +763,12 @@
                 "archived": false,
                 "id": 74505259,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-27T20:49:55Z",
+                "last_commit": "2026-08-28T21:30:09Z",
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25707
-              }
+                "stars": 25709
+              },
+              "first_seen": "2026-08-28T23:11:44.162Z"
             }
           ]
         }
@@ -759,11 +792,12 @@
                 "archived": false,
                 "id": 64991887,
                 "language": "C++",
-                "last_commit": "2026-08-27T20:31:25Z",
+                "last_commit": "2026-08-28T03:23:45Z",
                 "owner": "lightgbm-org",
                 "repo": "LightGBM",
-                "stars": 18719
-              }
+                "stars": 18721
+              },
+              "first_seen": "2026-08-28T23:11:44.162Z"
             }
           ]
         },
@@ -785,7 +819,8 @@
                 "owner": "hpclab",
                 "repo": "vectorized-quickscorer",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:11:44.162Z"
             }
           ]
         },
@@ -807,7 +842,8 @@
                 "owner": "hpclab",
                 "repo": "quickrank",
                 "stars": 132
-              }
+              },
+              "first_seen": "2026-08-28T23:11:44.162Z"
             }
           ]
         }
@@ -835,7 +871,8 @@
                 "owner": "donghoonlee04",
                 "repo": "cGPRT",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:11:44.162Z"
             }
           ]
         },
@@ -857,7 +894,8 @@
                 "owner": "hpclab",
                 "repo": "quickrank",
                 "stars": 132
-              }
+              },
+              "first_seen": "2026-08-28T23:11:44.162Z"
             }
           ]
         }
@@ -885,7 +923,8 @@
                 "owner": "rajanil",
                 "repo": "mkboost",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:11:44.162Z"
             }
           ]
         }
@@ -908,14 +947,15 @@
             "owner": "benedekrozemberczki",
             "repo": "awesome-decision-tree-papers",
             "stars": 2473
-          }
+          },
+          "first_seen": "2026-08-28T23:11:44.162Z"
         }
       ],
       "title": "1987"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:03:01.268Z",
+    "last_updated": "2026-08-28T23:11:44.162Z",
     "original_repository_info": {
       "archived": false,
       "id": 186166778,
