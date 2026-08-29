@@ -1,6 +1,6 @@
 # Awesome Decision, Classification, and Regression Tree Research Papers with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,846 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,890 | 🐛 105 | 📅 2026-08-21
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![repo size](https://img.shields.io/github/repo-size/benedekrozemberczki/awesome-decision-tree-papers.svg)](https://github.com/benedekrozemberczki/awesome-decision-tree-papers/archive/master.zip) ⭐ 2,473 | 🐛 3 | 🌐 Python | 📅 2025-12-28
 ![License](https://img.shields.io/github/license/benedekrozemberczki/awesome-decision-tree-papers.svg?color=blue) [![benedekrozemberczki](https://img.shields.io/twitter/follow/benrozemberczki?style=social\&logo=twitter)](https://twitter.com/intent/follow?screen_name=benrozemberczki)
@@ -301,7 +301,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   * [\[Paper\]](https://arxiv.org/abs/2003.00360)
 
 * **The Tree Ensemble Layer: Differentiability meets Conditional Computation (ICML 2020)**
-  * [\[Code\]](https://github.com/google-research/google-research/tree/master/tf_trees) ⭐ 38,642 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-27
+  * [\[Code\]](https://github.com/google-research/google-research/tree/master/tf_trees) ⭐ 38,643 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-27
   * Hussein Hazimeh, Natalia Ponomareva, Petros Mol, Zhenyu Tan, Rahul Mazumder
   * [\[Paper\]](https://arxiv.org/abs/2002.07772)
 
@@ -712,7 +712,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   * [\[Paper\]](https://papers.nips.cc/paper/6366-yggdrasil-an-optimized-system-for-training-deep-decision-trees-at-scale)
 
 * **A Communication-Efficient Parallel Algorithm for Decision Tree (NIPS 2016)**
-  * [\[Code\]](https://github.com/microsoft/LightGBM/blob/master/docs/Features.rst) ⭐ 18,721 | 🐛 512 | 🌐 C++ | 📅 2026-08-28
+  * [\[Code\]](https://github.com/microsoft/LightGBM/blob/master/docs/Features.rst) ⭐ 18,724 | 🐛 515 | 🌐 C++ | 📅 2026-08-29
   * Qi Meng, Guolin Ke, Taifeng Wang, Wei Chen, Qiwei Ye, Zhiming Ma, Tie-Yan Liu
   * [\[Paper\]](https://arxiv.org/abs/1611.01276)
 
@@ -1676,4 +1676,4 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

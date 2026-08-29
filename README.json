@@ -15,12 +15,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TransBoost algorithm for transfer learning",
+                "homepage": null,
                 "id": 438484628,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-01-31T03:12:01Z",
+                "open_issues": 3,
                 "owner": "yihengsun",
                 "repo": "TransBoost",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:44.162Z"
             }
@@ -38,12 +43,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 408542939,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2021-09-28T00:59:39Z",
+                "open_issues": 0,
                 "owner": "aagarwal1996",
                 "repo": "additive_trees",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:44.162Z"
             }
@@ -67,12 +77,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The code of AAAI20 paper \"Efficient Inference of Optimal Decision Trees\"",
+                "homepage": null,
                 "id": 222539097,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2020-06-26T13:19:04Z",
+                "open_issues": 0,
                 "owner": "FlorentAvellaneda",
                 "repo": "InferDT",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "classification-algorithm",
+                  "decision-tree-classifier",
+                  "machine-learning",
+                  "optimal-decision-trees"
+                ]
               },
               "first_seen": "2026-08-28T23:11:44.162Z"
             }
@@ -90,12 +110,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Silvarum Interpretatione Lator Valens Analysis - Stability analyzer for tree ensemble calssifiers.",
+                "homepage": null,
                 "id": 221413196,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2026-02-26T20:47:18Z",
+                "open_issues": 0,
                 "owner": "abstract-machine-learning",
                 "repo": "silva",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:44.162Z"
             }
@@ -113,12 +138,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "\"Oblique Decision Trees from Derivatives of ReLU Networks\" (ICLR 2020, previously called \"Locally Constant Networks\")",
+                "homepage": null,
                 "id": 239202130,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-04-27T17:23:45Z",
+                "open_issues": 1,
                 "owner": "guanghelee",
                 "repo": "iclr20-locally-constant-nets",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:44.162Z"
             }
@@ -136,12 +166,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Google Research",
+                "homepage": "https://research.google",
                 "id": 151619717,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T09:11:14Z",
+                "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38642
+                "stars": 38643,
+                "topics": [
+                  "ai",
+                  "machine-learning",
+                  "research"
+                ]
               },
               "first_seen": "2026-08-28T23:11:44.162Z"
             }
@@ -159,12 +198,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Optimal Sparse Decision Trees",
+                "homepage": null,
                 "id": 190356243,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-04-27T15:02:09Z",
+                "open_issues": 6,
                 "owner": "xiyanghu",
                 "repo": "OSDT",
-                "stars": 109
+                "stars": 109,
+                "topics": [
+                  "accelerate",
+                  "acceleration-model",
+                  "algorithm",
+                  "algorithm-optimization",
+                  "data-mining",
+                  "data-science",
+                  "interpretable-ml",
+                  "machine-learning",
+                  "ml-system",
+                  "mlsys",
+                  "neurips",
+                  "python",
+                  "python3"
+                ]
               },
               "first_seen": "2026-08-28T23:11:44.162Z"
             }
@@ -182,12 +240,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Born-Again Tree Ensembles: Transforms a random forest into a single, minimal-size, tree with exactly the same prediction function in the entire feature space (ICML 2020).",
+                "homepage": "https://arxiv.org/pdf/2003.11132.pdf",
                 "id": 275940050,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2023-07-06T22:00:22Z",
+                "open_issues": 7,
                 "owner": "vidalt",
                 "repo": "BA-Trees",
-                "stars": 69
+                "stars": 69,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:44.162Z"
             }
@@ -205,12 +268,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An algorithm for learning optimal decision trees, with Python interface",
+                "homepage": "https://pydl85.readthedocs.io/en/latest/?badge=latest",
                 "id": 218818367,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2023-05-15T14:24:05Z",
+                "open_issues": 3,
                 "owner": "aia-uclouvain",
                 "repo": "pydl8.5",
-                "stars": 69
+                "stars": 69,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:44.162Z"
             }
@@ -228,12 +296,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2020] Code for \"An Efficient Adversarial Attack for Tree Ensembles\"",
+                "homepage": "https://arxiv.org/abs/2010.11598",
                 "id": 303075754,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2021-06-06T22:51:51Z",
+                "open_issues": 2,
                 "owner": "chong-z",
                 "repo": "tree-ensemble-attack",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "adversarial-attacks",
+                  "decision-trees",
+                  "tree-ensembles",
+                  "xgboost-models"
+                ]
               },
               "first_seen": "2026-08-28T23:11:44.162Z"
             }
@@ -257,12 +335,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EDiT: Interpreting Ensemble Models via Compact Soft Decision Trees (ICDM'19)",
+                "homepage": null,
                 "id": 203311869,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2019-09-25T06:55:30Z",
+                "open_issues": 0,
                 "owner": "leesael",
                 "repo": "EDiT",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:44.162Z"
             },
@@ -273,12 +356,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EDiT: Interpreting Ensemble Models via Compact Soft Decision Trees (ICDM'19)",
+                "homepage": null,
                 "id": 203311869,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2019-09-25T06:55:30Z",
+                "open_issues": 0,
                 "owner": "leesael",
                 "repo": "EDiT",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:44.162Z"
             }
@@ -296,12 +384,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Adaptive Neural Trees ",
+                "homepage": null,
                 "id": 185573030,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2019-07-03T10:52:28Z",
+                "open_issues": 2,
                 "owner": "rtanno21609",
                 "repo": "AdaptiveNeuralTrees",
-                "stars": 156
+                "stars": 156,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:44.162Z"
             }
@@ -319,12 +412,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICML 2019, 20 min long talk] Robust Decision Trees Against Adversarial Examples",
+                "homepage": "https://arxiv.org/pdf/1902.10660.pdf",
                 "id": 186072489,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2025-07-12T01:42:12Z",
+                "open_issues": 4,
                 "owner": "chenhongge",
                 "repo": "RobustTrees",
-                "stars": 69
+                "stars": 69,
+                "topics": [
+                  "adversarial-examples",
+                  "decision-trees",
+                  "gbdt",
+                  "gbm",
+                  "gbrt",
+                  "robust-decision-trees",
+                  "xgboost"
+                ]
               },
               "first_seen": "2026-08-28T23:11:44.162Z"
             }
@@ -342,12 +448,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for reproducing results in FAHT (IJCAI 19)",
+                "homepage": null,
                 "id": 187460316,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2019-12-02T06:05:06Z",
+                "open_issues": 0,
                 "owner": "vanbanTruong",
                 "repo": "FAHT",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:44.162Z"
             }
@@ -365,12 +476,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hellinger distance decision tree",
+                "homepage": null,
                 "id": 37481084,
                 "language": "R",
+                "license": null,
                 "last_commit": "2015-06-15T18:17:28Z",
+                "open_issues": 0,
                 "owner": "kaurao",
                 "repo": "HDDT",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:44.162Z"
             },
@@ -381,12 +497,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Matlab Implementation of Hellinger Distance Decision Trees and Forests for Binary Decision Problems with Imbalanced Data and Numeric Attributes",
+                "homepage": null,
                 "id": 38774032,
                 "language": "Matlab",
+                "license": "MIT",
                 "last_commit": "2016-10-10T18:24:20Z",
+                "open_issues": 0,
                 "owner": "ZDanielsResearch",
                 "repo": "HellingerTreesMatlab",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:44.162Z"
             }
@@ -404,12 +525,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gradient Boosting With Piece-Wise Linear Trees",
+                "homepage": null,
                 "id": 120965927,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2024-04-15T16:36:16Z",
+                "open_issues": 6,
                 "owner": "GBDT-PL",
                 "repo": "GBDT-PL",
-                "stars": 159
+                "stars": 159,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:44.162Z"
             }
@@ -427,12 +553,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "\"Tight Certificates of Adversarial Robustness for Randomly Smoothed Classifiers\" (NeurIPS 2019, previously called \"A Stratified Approach to Robustness for Randomly Smoothed Classifiers\")",
+                "homepage": null,
                 "id": 194721632,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-11-16T04:06:50Z",
+                "open_issues": 1,
                 "owner": "guanghelee",
                 "repo": "neurips19-certificates-of-robustness",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:44.162Z"
             }
@@ -450,12 +581,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Provably Robust Boosted Decision Stumps and Trees against Adversarial Attacks [NeurIPS 2019]",
+                "homepage": "http://arxiv.org/abs/1906.03526",
                 "id": 185219128,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2020-04-25T20:01:40Z",
+                "open_issues": 0,
                 "owner": "max-andr",
                 "repo": "provably-robust-boosting",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "adversarial-attacks",
+                  "boosted-decision-stumps",
+                  "boosted-trees",
+                  "boosting",
+                  "provable-defense"
+                ]
               },
               "first_seen": "2026-08-28T23:11:44.162Z"
             }
@@ -473,12 +615,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NeuIPS2019: Optimal Decision Tree with noisy outcomes",
+                "homepage": null,
                 "id": 211207052,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-09-28T20:48:18Z",
+                "open_issues": 0,
                 "owner": "sjia1",
                 "repo": "ODT-with-noisy-outcomes",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:44.162Z"
             }
@@ -496,12 +643,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Optimal Sparse Decision Trees",
+                "homepage": null,
                 "id": 190356243,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-04-27T15:02:09Z",
+                "open_issues": 6,
                 "owner": "xiyanghu",
                 "repo": "OSDT",
-                "stars": 109
+                "stars": 109,
+                "topics": [
+                  "accelerate",
+                  "acceleration-model",
+                  "algorithm",
+                  "algorithm-optimization",
+                  "data-mining",
+                  "data-science",
+                  "interpretable-ml",
+                  "machine-learning",
+                  "ml-system",
+                  "mlsys",
+                  "neurips",
+                  "python",
+                  "python3"
+                ]
               },
               "first_seen": "2026-08-28T23:11:44.162Z"
             }
@@ -519,12 +685,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Optimal Sparse Decision Trees",
+                "homepage": null,
                 "id": 190356243,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-04-27T15:02:09Z",
+                "open_issues": 6,
                 "owner": "xiyanghu",
                 "repo": "OSDT",
-                "stars": 109
+                "stars": 109,
+                "topics": [
+                  "accelerate",
+                  "acceleration-model",
+                  "algorithm",
+                  "algorithm-optimization",
+                  "data-mining",
+                  "data-science",
+                  "interpretable-ml",
+                  "machine-learning",
+                  "ml-system",
+                  "mlsys",
+                  "neurips",
+                  "python",
+                  "python3"
+                ]
               },
               "first_seen": "2026-08-28T23:11:44.162Z"
             }
@@ -548,12 +733,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi-directional Ensembles of Classification and Regression treeS",
+                "homepage": "https://eliavw.github.io/mercs-v5/",
                 "id": 148651211,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2020-01-28T13:48:43Z",
+                "open_issues": 1,
                 "owner": "eliavw",
                 "repo": "mercs-v5",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:44.162Z"
             }
@@ -571,12 +761,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Differential Performance Debugging with Discriminant Regression Trees",
+                "homepage": null,
                 "id": 158587104,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-12-15T06:45:11Z",
+                "open_issues": 0,
                 "owner": "cuplv",
                 "repo": "DPDEBUGGER",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:44.162Z"
             }
@@ -594,12 +789,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "DTLC-GAN Tensorflow",
+                "homepage": null,
                 "id": 146096242,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-08-29T02:48:17Z",
+                "open_issues": 0,
                 "owner": "LynnHo",
                 "repo": "DTLC-GAN-Tensorflow",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "dtlc-gan"
+                ]
               },
               "first_seen": "2026-08-28T23:11:44.162Z"
             }
@@ -617,12 +819,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 136028719,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2018-06-08T13:11:39Z",
+                "open_issues": 0,
                 "owner": "ICDM2018Submission",
                 "repo": "VFDT-split-time-prediction",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:44.162Z"
             }
@@ -640,12 +847,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Supporting code for the paper \"Finding Influential Training Samples for Gradient Boosted Decision Trees\"",
+                "homepage": null,
                 "id": 121615870,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-05-28T11:15:44Z",
+                "open_issues": 1,
                 "owner": "bsharchilev",
                 "repo": "influence_boosting",
-                "stars": 68
+                "stars": 68,
+                "topics": [
+                  "catboost",
+                  "gradient-boosting",
+                  "influence-functions",
+                  "machine-learning",
+                  "machine-learning-algorithms",
+                  "paper",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T23:11:44.162Z"
             }
@@ -663,12 +883,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "incremental CART decision tree, based on the hoeffding tree i.e. very fast decision tree (VFDT), which is proposed in this paper \"Mining High-Speed Data Streams\" by Domingos & Hulten (2000). And a newly extended model \"Extremely Fast Decision Tree\" (EFDT) by Manapragada, Webb & Salehi (2018). Added new implementation of Random Forest ",
+                "homepage": null,
                 "id": 132594508,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-10-22T19:44:19Z",
+                "open_issues": 1,
                 "owner": "doubleplusplus",
                 "repo": "incremental_decision_tree-CART-Random_Forest",
-                "stars": 104
+                "stars": 104,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:44.162Z"
             }
@@ -686,12 +911,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the official clone for the implementation of the NIPS18 paper  Multi-Layered Gradient Boosting Decision Trees (mGBDT) .",
+                "homepage": null,
                 "id": 154836868,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-11-19T07:28:10Z",
+                "open_issues": 4,
                 "owner": "kingfengji",
                 "repo": "mGBDT",
-                "stars": 103
+                "stars": 103,
+                "topics": [
+                  "gbdt",
+                  "gradient-boosting-decision-trees",
+                  "mgbdt",
+                  "representation-learning",
+                  "target-propagation"
+                ]
               },
               "first_seen": "2026-08-28T23:11:44.162Z"
             }
@@ -715,12 +951,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of \"Gradient Boosted Decision Trees for High Dimensional Sparse Output\" in ICML 17",
+                "homepage": null,
                 "id": 95077056,
                 "language": null,
+                "license": null,
                 "last_commit": "2018-04-15T23:38:47Z",
+                "open_issues": 1,
                 "owner": "springdaisy",
                 "repo": "GBDT",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:44.162Z"
             }
@@ -738,12 +979,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A game theoretic approach to explain the output of any machine learning model.",
+                "homepage": "https://shap.readthedocs.io",
                 "id": 74505259,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-08-28T21:30:09Z",
+                "open_issues": 1004,
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25709
+                "stars": 25709,
+                "topics": [
+                  "deep-learning",
+                  "explainability",
+                  "gradient-boosting",
+                  "interpretability",
+                  "machine-learning",
+                  "shap",
+                  "shapley"
+                ]
               },
               "first_seen": "2026-08-28T23:11:44.162Z"
             }
@@ -761,12 +1015,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A game theoretic approach to explain the output of any machine learning model.",
+                "homepage": "https://shap.readthedocs.io",
                 "id": 74505259,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-08-28T21:30:09Z",
+                "open_issues": 1004,
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25709
+                "stars": 25709,
+                "topics": [
+                  "deep-learning",
+                  "explainability",
+                  "gradient-boosting",
+                  "interpretability",
+                  "machine-learning",
+                  "shap",
+                  "shapley"
+                ]
               },
               "first_seen": "2026-08-28T23:11:44.162Z"
             }
@@ -790,12 +1057,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.",
+                "homepage": "https://lightgbm.readthedocs.io/en/latest/",
                 "id": 64991887,
                 "language": "C++",
-                "last_commit": "2026-08-28T03:23:45Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T04:19:05Z",
+                "open_issues": 515,
                 "owner": "lightgbm-org",
                 "repo": "LightGBM",
-                "stars": 18721
+                "stars": 18724,
+                "topics": [
+                  "data-mining",
+                  "decision-trees",
+                  "distributed",
+                  "gbdt",
+                  "gbm",
+                  "gbrt",
+                  "gradient-boosting",
+                  "kaggle",
+                  "lightgbm",
+                  "machine-learning",
+                  "parallel",
+                  "python",
+                  "r"
+                ]
               },
               "first_seen": "2026-08-28T23:11:44.162Z"
             }
@@ -813,12 +1099,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official repository of Vectorized Quickscorer: Exploiting CPU SIMD Extensions to Speed-up Document Scoring with Tree Ensembles.",
+                "homepage": null,
                 "id": 58367225,
                 "language": null,
+                "license": null,
                 "last_commit": "2016-08-11T14:16:07Z",
+                "open_issues": 0,
                 "owner": "hpclab",
                 "repo": "vectorized-quickscorer",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:44.162Z"
             }
@@ -836,12 +1127,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official repository of QuickRank: A C++ suite of Learning to Rank algorithms.",
+                "homepage": "http://quickrank.isti.cnr.it",
                 "id": 54636579,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2019-04-24T04:02:32Z",
+                "open_issues": 5,
                 "owner": "hpclab",
                 "repo": "quickrank",
-                "stars": 132
+                "stars": 132,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:44.162Z"
             }
@@ -865,12 +1161,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cascade Gaussian Process Regression Trees",
+                "homepage": null,
                 "id": 56120531,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2016-04-14T13:15:18Z",
+                "open_issues": 1,
                 "owner": "donghoonlee04",
                 "repo": "cGPRT",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:44.162Z"
             }
@@ -888,12 +1189,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official repository of QuickRank: A C++ suite of Learning to Rank algorithms.",
+                "homepage": "http://quickrank.isti.cnr.it",
                 "id": 54636579,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2019-04-24T04:02:32Z",
+                "open_issues": 5,
                 "owner": "hpclab",
                 "repo": "quickrank",
-                "stars": 132
+                "stars": 132,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:44.162Z"
             }
@@ -917,12 +1223,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A machine learning approach to identify hosts of families of viruses.",
+                "homepage": "http://mkboost.sourceforge.net/",
                 "id": 26572586,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2014-12-12T13:41:23Z",
+                "open_issues": 0,
                 "owner": "rajanil",
                 "repo": "mkboost",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:44.162Z"
             }
@@ -941,12 +1252,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of research papers on decision, classification and regression trees with implementations.",
+            "homepage": null,
             "id": 186166778,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2025-12-28T23:17:27Z",
+            "open_issues": 3,
             "owner": "benedekrozemberczki",
             "repo": "awesome-decision-tree-papers",
-            "stars": 2473
+            "stars": 2473,
+            "topics": [
+              "cart",
+              "catboost",
+              "classification-model",
+              "classification-trees",
+              "classifier",
+              "decision-tree",
+              "decision-tree-classifier",
+              "decision-tree-learning",
+              "decision-tree-model",
+              "ensemble-learning",
+              "gradient-boosting",
+              "gradient-boosting-machine",
+              "lightgbm",
+              "machine-learning",
+              "machine-learning-research",
+              "random-forest",
+              "regression-tree",
+              "statistical-learning",
+              "tree-ensemble",
+              "xgboost"
+            ]
           },
           "first_seen": "2026-08-28T23:11:44.162Z"
         }
@@ -955,15 +1292,41 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:11:44.162Z",
+    "last_updated": "2026-08-29T04:21:52.023Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of research papers on decision, classification and regression trees with implementations.",
+      "homepage": null,
       "id": 186166778,
       "language": "Python",
+      "license": "CC0-1.0",
       "last_commit": "2025-12-28T23:17:27Z",
+      "open_issues": 3,
       "owner": "benedekrozemberczki",
       "repo": "awesome-decision-tree-papers",
-      "stars": 2473
+      "stars": 2473,
+      "topics": [
+        "cart",
+        "catboost",
+        "classification-model",
+        "classification-trees",
+        "classifier",
+        "decision-tree",
+        "decision-tree-classifier",
+        "decision-tree-learning",
+        "decision-tree-model",
+        "ensemble-learning",
+        "gradient-boosting",
+        "gradient-boosting-machine",
+        "lightgbm",
+        "machine-learning",
+        "machine-learning-research",
+        "random-forest",
+        "regression-tree",
+        "statistical-learning",
+        "tree-ensemble",
+        "xgboost"
+      ]
     },
     "original_repository_sha": "0be555e54858442bb55e7159fe5abc4442d5bfdf",
     "enhanced_repository": "enhansome/enhansome-decision-tree-papers",
