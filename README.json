@@ -175,7 +175,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38660,
+                "stars": 38668,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -984,11 +984,11 @@
                 "id": 74505259,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-08-30T17:31:15Z",
-                "open_issues": 1000,
+                "last_commit": "2026-09-01T15:14:57Z",
+                "open_issues": 997,
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25717,
+                "stars": 25722,
                 "topics": [
                   "deep-learning",
                   "explainability",
@@ -1020,11 +1020,11 @@
                 "id": 74505259,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-08-30T17:31:15Z",
-                "open_issues": 1000,
+                "last_commit": "2026-09-01T15:14:57Z",
+                "open_issues": 997,
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25717,
+                "stars": 25722,
                 "topics": [
                   "deep-learning",
                   "explainability",
@@ -1062,11 +1062,11 @@
                 "id": 64991887,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-08-31T01:23:07Z",
-                "open_issues": 515,
+                "last_commit": "2026-09-01T03:46:20Z",
+                "open_issues": 517,
                 "owner": "lightgbm-org",
                 "repo": "LightGBM",
-                "stars": 18732,
+                "stars": 18734,
                 "topics": [
                   "data-mining",
                   "decision-trees",
@@ -1292,7 +1292,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T19:38:34.092Z",
+    "last_updated": "2026-09-01T17:26:23.847Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of research papers on decision, classification and regression trees with implementations.",
