@@ -175,7 +175,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38689,
+                "stars": 38693,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -985,10 +985,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-09-03T22:05:47Z",
-                "open_issues": 988,
+                "open_issues": 982,
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25727,
+                "stars": 25728,
                 "topics": [
                   "deep-learning",
                   "explainability",
@@ -1021,10 +1021,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-09-03T22:05:47Z",
-                "open_issues": 988,
+                "open_issues": 982,
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25727,
+                "stars": 25728,
                 "topics": [
                   "deep-learning",
                   "explainability",
@@ -1063,10 +1063,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-09-03T04:42:18Z",
-                "open_issues": 513,
+                "open_issues": 515,
                 "owner": "lightgbm-org",
                 "repo": "LightGBM",
-                "stars": 18744,
+                "stars": 18746,
                 "topics": [
                   "data-mining",
                   "decision-trees",
@@ -1292,7 +1292,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T17:04:01.165Z",
+    "last_updated": "2026-09-05T16:14:47.045Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of research papers on decision, classification and regression trees with implementations.",
