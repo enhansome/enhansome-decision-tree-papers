@@ -171,11 +171,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-08T09:22:17Z",
+                "last_commit": "2026-09-09T16:18:29Z",
                 "open_issues": 1990,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38712,
+                "stars": 38718,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -985,10 +985,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-09-07T22:47:27Z",
-                "open_issues": 983,
+                "open_issues": 981,
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25729,
+                "stars": 25731,
                 "topics": [
                   "deep-learning",
                   "explainability",
@@ -1021,10 +1021,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-09-07T22:47:27Z",
-                "open_issues": 983,
+                "open_issues": 981,
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25729,
+                "stars": 25731,
                 "topics": [
                   "deep-learning",
                   "explainability",
@@ -1066,7 +1066,7 @@
                 "open_issues": 511,
                 "owner": "lightgbm-org",
                 "repo": "LightGBM",
-                "stars": 18753,
+                "stars": 18756,
                 "topics": [
                   "data-mining",
                   "decision-trees",
@@ -1292,7 +1292,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T17:29:24.103Z",
+    "last_updated": "2026-09-09T17:15:57.958Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of research papers on decision, classification and regression trees with implementations.",
