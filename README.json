@@ -175,7 +175,7 @@
                 "open_issues": 1995,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38794,
+                "stars": 38805,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -984,11 +984,11 @@
                 "id": 74505259,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-18T01:30:42Z",
+                "last_commit": "2026-09-20T15:15:34Z",
                 "open_issues": 989,
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25762,
+                "stars": 25764,
                 "topics": [
                   "deep-learning",
                   "explainability",
@@ -1020,11 +1020,11 @@
                 "id": 74505259,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-18T01:30:42Z",
+                "last_commit": "2026-09-20T15:15:34Z",
                 "open_issues": 989,
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25762,
+                "stars": 25764,
                 "topics": [
                   "deep-learning",
                   "explainability",
@@ -1066,7 +1066,7 @@
                 "open_issues": 518,
                 "owner": "lightgbm-org",
                 "repo": "LightGBM",
-                "stars": 18782,
+                "stars": 18786,
                 "topics": [
                   "data-mining",
                   "decision-trees",
@@ -1292,7 +1292,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T16:47:29.020Z",
+    "last_updated": "2026-09-20T16:57:34.727Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of research papers on decision, classification and regression trees with implementations.",
