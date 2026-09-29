@@ -175,7 +175,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38839,
+                "stars": 38849,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -249,7 +249,7 @@
                 "open_issues": 7,
                 "owner": "vidalt",
                 "repo": "BA-Trees",
-                "stars": 69,
+                "stars": 70,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:44.162Z"
@@ -988,7 +988,7 @@
                 "open_issues": 989,
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25784,
+                "stars": 25785,
                 "topics": [
                   "deep-learning",
                   "explainability",
@@ -1024,7 +1024,7 @@
                 "open_issues": 989,
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25784,
+                "stars": 25785,
                 "topics": [
                   "deep-learning",
                   "explainability",
@@ -1062,11 +1062,11 @@
                 "id": 64991887,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-27T20:22:24Z",
-                "open_issues": 533,
+                "last_commit": "2026-09-29T04:41:13Z",
+                "open_issues": 538,
                 "owner": "lightgbm-org",
                 "repo": "LightGBM",
-                "stars": 18819,
+                "stars": 18822,
                 "topics": [
                   "data-mining",
                   "decision-trees",
@@ -1292,7 +1292,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T20:13:27.310Z",
+    "last_updated": "2026-09-29T18:51:27.706Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of research papers on decision, classification and regression trees with implementations.",
