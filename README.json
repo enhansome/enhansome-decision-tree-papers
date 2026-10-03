@@ -11,7 +11,7 @@
             {
               "node_type": "item",
               "title": "yihengsun/TransBoost",
-              "description": null,
+              "description": "yihengsun/TransBoost",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -39,7 +39,7 @@
             {
               "node_type": "item",
               "title": "aagarwal1996/additive_trees",
-              "description": null,
+              "description": "aagarwal1996/additive_trees",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -73,7 +73,7 @@
             {
               "node_type": "item",
               "title": "FlorentAvellaneda/InferDT",
-              "description": null,
+              "description": "FlorentAvellaneda/InferDT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -106,7 +106,7 @@
             {
               "node_type": "item",
               "title": "abstract-machine-learning/silva",
-              "description": null,
+              "description": "abstract-machine-learning/silva",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -134,7 +134,7 @@
             {
               "node_type": "item",
               "title": "guanghelee/iclr20-locally-constant-nets",
-              "description": null,
+              "description": "guanghelee/iclr20-locally-constant-nets",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -162,7 +162,7 @@
             {
               "node_type": "item",
               "title": "google-research/google-research",
-              "description": null,
+              "description": "google-research/google-research",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -175,7 +175,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38861,
+                "stars": 38863,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -194,7 +194,7 @@
             {
               "node_type": "item",
               "title": "xiyanghu/OSDT",
-              "description": null,
+              "description": "xiyanghu/OSDT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -236,7 +236,7 @@
             {
               "node_type": "item",
               "title": "vidalt/BA-Trees",
-              "description": null,
+              "description": "vidalt/BA-Trees",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -264,7 +264,7 @@
             {
               "node_type": "item",
               "title": "aia-uclouvain/pydl8.5",
-              "description": null,
+              "description": "aia-uclouvain/pydl8.5",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -292,7 +292,7 @@
             {
               "node_type": "item",
               "title": "chong-z/tree-ensemble-attack",
-              "description": null,
+              "description": "chong-z/tree-ensemble-attack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -331,7 +331,7 @@
             {
               "node_type": "item",
               "title": "leesael/EDiT",
-              "description": null,
+              "description": "leesael/EDiT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -352,7 +352,7 @@
             {
               "node_type": "item",
               "title": "leesael/EDiT",
-              "description": null,
+              "description": "leesael/EDiT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -380,7 +380,7 @@
             {
               "node_type": "item",
               "title": "rtanno21609/AdaptiveNeuralTrees",
-              "description": null,
+              "description": "rtanno21609/AdaptiveNeuralTrees",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -408,7 +408,7 @@
             {
               "node_type": "item",
               "title": "chenhongge/RobustTrees",
-              "description": null,
+              "description": "chenhongge/RobustTrees",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -444,7 +444,7 @@
             {
               "node_type": "item",
               "title": "vanbanTruong/FAHT",
-              "description": null,
+              "description": "vanbanTruong/FAHT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -472,7 +472,7 @@
             {
               "node_type": "item",
               "title": "[R Code]",
-              "description": null,
+              "description": "kaurao/HDDT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -493,7 +493,7 @@
             {
               "node_type": "item",
               "title": "[Matlab Code]",
-              "description": null,
+              "description": "ZDanielsResearch/HellingerTreesMatlab",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -521,7 +521,7 @@
             {
               "node_type": "item",
               "title": "GBDT-PL/GBDT-PL",
-              "description": null,
+              "description": "GBDT-PL/GBDT-PL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -549,7 +549,7 @@
             {
               "node_type": "item",
               "title": "guanghelee/neurips19-certificates-of-robustness",
-              "description": null,
+              "description": "guanghelee/neurips19-certificates-of-robustness",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -577,7 +577,7 @@
             {
               "node_type": "item",
               "title": "max-andr/provably-robust-boosting",
-              "description": null,
+              "description": "max-andr/provably-robust-boosting",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -611,7 +611,7 @@
             {
               "node_type": "item",
               "title": "sjia1/ODT-with-noisy-outcomes",
-              "description": null,
+              "description": "sjia1/ODT-with-noisy-outcomes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -639,7 +639,7 @@
             {
               "node_type": "item",
               "title": "xiyanghu/OSDT",
-              "description": null,
+              "description": "xiyanghu/OSDT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -681,7 +681,7 @@
             {
               "node_type": "item",
               "title": "xiyanghu/OSDT",
-              "description": null,
+              "description": "xiyanghu/OSDT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -729,7 +729,7 @@
             {
               "node_type": "item",
               "title": "eliavw/mercs-v5",
-              "description": null,
+              "description": "eliavw/mercs-v5",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -757,7 +757,7 @@
             {
               "node_type": "item",
               "title": "cuplv/DPDEBUGGER",
-              "description": null,
+              "description": "cuplv/DPDEBUGGER",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -785,7 +785,7 @@
             {
               "node_type": "item",
               "title": "LynnHo/DTLC-GAN-Tensorflow",
-              "description": null,
+              "description": "LynnHo/DTLC-GAN-Tensorflow",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -815,7 +815,7 @@
             {
               "node_type": "item",
               "title": "ICDM2018Submission/VFDT-split-time-prediction",
-              "description": null,
+              "description": "ICDM2018Submission/VFDT-split-time-prediction",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -843,7 +843,7 @@
             {
               "node_type": "item",
               "title": "bsharchilev/influence_boosting",
-              "description": null,
+              "description": "bsharchilev/influence_boosting",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -879,7 +879,7 @@
             {
               "node_type": "item",
               "title": "doubleplusplus/incremental_decision_tree-CART-Random_Forest",
-              "description": null,
+              "description": "doubleplusplus/incremental_decision_tree-CART-Random_Forest",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -907,7 +907,7 @@
             {
               "node_type": "item",
               "title": "kingfengji/mGBDT",
-              "description": null,
+              "description": "kingfengji/mGBDT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -947,7 +947,7 @@
             {
               "node_type": "item",
               "title": "springdaisy/GBDT",
-              "description": null,
+              "description": "springdaisy/GBDT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -975,7 +975,7 @@
             {
               "node_type": "item",
               "title": "shap/shap",
-              "description": null,
+              "description": "shap/shap",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1011,7 +1011,7 @@
             {
               "node_type": "item",
               "title": "shap/shap",
-              "description": null,
+              "description": "shap/shap",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1053,7 +1053,7 @@
             {
               "node_type": "item",
               "title": "lightgbm-org/LightGBM",
-              "description": null,
+              "description": "lightgbm-org/LightGBM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1062,11 +1062,11 @@
                 "id": 64991887,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-01T23:25:19Z",
-                "open_issues": 539,
+                "last_commit": "2026-10-02T19:50:20Z",
+                "open_issues": 538,
                 "owner": "lightgbm-org",
                 "repo": "LightGBM",
-                "stars": 18827,
+                "stars": 18828,
                 "topics": [
                   "data-mining",
                   "decision-trees",
@@ -1095,7 +1095,7 @@
             {
               "node_type": "item",
               "title": "hpclab/vectorized-quickscorer",
-              "description": null,
+              "description": "hpclab/vectorized-quickscorer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1123,7 +1123,7 @@
             {
               "node_type": "item",
               "title": "hpclab/quickrank",
-              "description": null,
+              "description": "hpclab/quickrank",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1157,7 +1157,7 @@
             {
               "node_type": "item",
               "title": "donghoonlee04/cGPRT",
-              "description": null,
+              "description": "donghoonlee04/cGPRT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1185,7 +1185,7 @@
             {
               "node_type": "item",
               "title": "hpclab/quickrank",
-              "description": null,
+              "description": "hpclab/quickrank",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1219,7 +1219,7 @@
             {
               "node_type": "item",
               "title": "rajanil/mkboost",
-              "description": null,
+              "description": "rajanil/mkboost",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1241,58 +1241,10 @@
         }
       ],
       "title": "1999"
-    },
-    {
-      "description": "License",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "CC0 Universal",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A collection of research papers on decision, classification and regression trees with implementations.",
-            "homepage": null,
-            "id": 186166778,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2025-12-28T23:17:27Z",
-            "open_issues": 3,
-            "owner": "benedekrozemberczki",
-            "repo": "awesome-decision-tree-papers",
-            "stars": 2476,
-            "topics": [
-              "cart",
-              "catboost",
-              "classification-model",
-              "classification-trees",
-              "classifier",
-              "decision-tree",
-              "decision-tree-classifier",
-              "decision-tree-learning",
-              "decision-tree-model",
-              "ensemble-learning",
-              "gradient-boosting",
-              "gradient-boosting-machine",
-              "lightgbm",
-              "machine-learning",
-              "machine-learning-research",
-              "random-forest",
-              "regression-tree",
-              "statistical-learning",
-              "tree-ensemble",
-              "xgboost"
-            ]
-          },
-          "first_seen": "2026-08-28T23:11:44.162Z"
-        }
-      ],
-      "title": "1987"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:40:39.329Z",
+    "last_updated": "2026-10-03T04:40:18.816Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of research papers on decision, classification and regression trees with implementations.",
