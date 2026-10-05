@@ -175,7 +175,7 @@
                 "open_issues": 1997,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38871,
+                "stars": 38873,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -920,7 +920,7 @@
                 "open_issues": 4,
                 "owner": "kingfengji",
                 "repo": "mGBDT",
-                "stars": 103,
+                "stars": 102,
                 "topics": [
                   "gbdt",
                   "gradient-boosting-decision-trees",
@@ -984,11 +984,11 @@
                 "id": 74505259,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-04T15:18:42Z",
-                "open_issues": 991,
+                "last_commit": "2026-10-04T18:10:00Z",
+                "open_issues": 995,
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25794,
+                "stars": 25792,
                 "topics": [
                   "deep-learning",
                   "explainability",
@@ -1020,11 +1020,11 @@
                 "id": 74505259,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-04T15:18:42Z",
-                "open_issues": 991,
+                "last_commit": "2026-10-04T18:10:00Z",
+                "open_issues": 995,
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25794,
+                "stars": 25792,
                 "topics": [
                   "deep-learning",
                   "explainability",
@@ -1062,11 +1062,11 @@
                 "id": 64991887,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-02T19:50:20Z",
-                "open_issues": 541,
+                "last_commit": "2026-10-05T04:27:29Z",
+                "open_issues": 542,
                 "owner": "lightgbm-org",
                 "repo": "LightGBM",
-                "stars": 18832,
+                "stars": 18831,
                 "topics": [
                   "data-mining",
                   "decision-trees",
@@ -1244,7 +1244,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T17:49:06.651Z",
+    "last_updated": "2026-10-05T21:28:04.136Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of research papers on decision, classification and regression trees with implementations.",
