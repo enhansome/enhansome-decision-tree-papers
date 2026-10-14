@@ -171,11 +171,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T06:27:55Z",
+                "last_commit": "2026-10-14T05:46:02Z",
                 "open_issues": 2005,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38911,
+                "stars": 38913,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -985,10 +985,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-10-12T19:42:45Z",
-                "open_issues": 1001,
+                "open_issues": 1002,
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25810,
+                "stars": 25812,
                 "topics": [
                   "deep-learning",
                   "explainability",
@@ -1021,10 +1021,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-10-12T19:42:45Z",
-                "open_issues": 1001,
+                "open_issues": 1002,
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25810,
+                "stars": 25812,
                 "topics": [
                   "deep-learning",
                   "explainability",
@@ -1062,11 +1062,11 @@
                 "id": 64991887,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-12T04:09:56Z",
-                "open_issues": 539,
+                "last_commit": "2026-10-14T02:36:41Z",
+                "open_issues": 538,
                 "owner": "lightgbm-org",
                 "repo": "LightGBM",
-                "stars": 18872,
+                "stars": 18880,
                 "topics": [
                   "data-mining",
                   "decision-trees",
@@ -1244,7 +1244,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T19:57:11.678Z",
+    "last_updated": "2026-10-14T18:09:48.497Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of research papers on decision, classification and regression trees with implementations.",
