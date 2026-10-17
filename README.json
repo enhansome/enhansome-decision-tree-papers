@@ -175,7 +175,7 @@
                 "open_issues": 2008,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38926,
+                "stars": 38927,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -985,10 +985,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-10-16T08:36:03Z",
-                "open_issues": 996,
+                "open_issues": 998,
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25816,
+                "stars": 25817,
                 "topics": [
                   "deep-learning",
                   "explainability",
@@ -1021,10 +1021,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-10-16T08:36:03Z",
-                "open_issues": 996,
+                "open_issues": 998,
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25816,
+                "stars": 25817,
                 "topics": [
                   "deep-learning",
                   "explainability",
@@ -1062,11 +1062,11 @@
                 "id": 64991887,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-16T03:23:41Z",
-                "open_issues": 538,
+                "last_commit": "2026-10-17T04:38:06Z",
+                "open_issues": 539,
                 "owner": "lightgbm-org",
                 "repo": "LightGBM",
-                "stars": 18885,
+                "stars": 18889,
                 "topics": [
                   "data-mining",
                   "decision-trees",
@@ -1244,7 +1244,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T17:41:09.442Z",
+    "last_updated": "2026-10-17T16:38:56.595Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of research papers on decision, classification and regression trees with implementations.",
