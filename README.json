@@ -175,7 +175,7 @@
                 "open_issues": 2008,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38942,
+                "stars": 38959,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -988,7 +988,7 @@
                 "open_issues": 1003,
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25820,
+                "stars": 25823,
                 "topics": [
                   "deep-learning",
                   "explainability",
@@ -1024,7 +1024,7 @@
                 "open_issues": 1003,
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25820,
+                "stars": 25823,
                 "topics": [
                   "deep-learning",
                   "explainability",
@@ -1062,11 +1062,11 @@
                 "id": 64991887,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-18T04:52:54Z",
+                "last_commit": "2026-10-19T02:07:31Z",
                 "open_issues": 539,
                 "owner": "lightgbm-org",
                 "repo": "LightGBM",
-                "stars": 18891,
+                "stars": 18892,
                 "topics": [
                   "data-mining",
                   "decision-trees",
@@ -1244,7 +1244,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T16:52:35.568Z",
+    "last_updated": "2026-10-19T19:27:55.447Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of research papers on decision, classification and regression trees with implementations.",
@@ -1256,7 +1256,7 @@
       "open_issues": 3,
       "owner": "benedekrozemberczki",
       "repo": "awesome-decision-tree-papers",
-      "stars": 2477,
+      "stars": 2478,
       "topics": [
         "cart",
         "catboost",
