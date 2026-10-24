@@ -171,11 +171,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T00:52:55Z",
-                "open_issues": 2009,
+                "last_commit": "2026-10-23T21:57:07Z",
+                "open_issues": 2024,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39013,
+                "stars": 39016,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -988,7 +988,7 @@
                 "open_issues": 997,
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25827,
+                "stars": 25829,
                 "topics": [
                   "deep-learning",
                   "explainability",
@@ -1024,7 +1024,7 @@
                 "open_issues": 997,
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25827,
+                "stars": 25829,
                 "topics": [
                   "deep-learning",
                   "explainability",
@@ -1062,11 +1062,11 @@
                 "id": 64991887,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-22T01:12:02Z",
-                "open_issues": 536,
+                "last_commit": "2026-10-24T04:43:03Z",
+                "open_issues": 530,
                 "owner": "lightgbm-org",
                 "repo": "LightGBM",
-                "stars": 18909,
+                "stars": 18911,
                 "topics": [
                   "data-mining",
                   "decision-trees",
@@ -1244,7 +1244,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T17:57:01.495Z",
+    "last_updated": "2026-10-24T16:56:05.932Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of research papers on decision, classification and regression trees with implementations.",
