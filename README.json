@@ -171,11 +171,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-29T16:49:00Z",
+                "last_commit": "2026-10-30T17:33:25Z",
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39058,
+                "stars": 39063,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -249,7 +249,7 @@
                 "open_issues": 7,
                 "owner": "vidalt",
                 "repo": "BA-Trees",
-                "stars": 70,
+                "stars": 71,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:44.162Z"
@@ -984,11 +984,11 @@
                 "id": 74505259,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-29T14:20:45Z",
-                "open_issues": 1004,
+                "last_commit": "2026-10-30T16:20:30Z",
+                "open_issues": 993,
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25836,
+                "stars": 25840,
                 "topics": [
                   "deep-learning",
                   "explainability",
@@ -1020,11 +1020,11 @@
                 "id": 74505259,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-29T14:20:45Z",
-                "open_issues": 1004,
+                "last_commit": "2026-10-30T16:20:30Z",
+                "open_issues": 993,
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25836,
+                "stars": 25840,
                 "topics": [
                   "deep-learning",
                   "explainability",
@@ -1062,11 +1062,11 @@
                 "id": 64991887,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-28T16:20:31Z",
-                "open_issues": 530,
+                "last_commit": "2026-10-29T20:29:33Z",
+                "open_issues": 531,
                 "owner": "lightgbm-org",
                 "repo": "LightGBM",
-                "stars": 18939,
+                "stars": 18941,
                 "topics": [
                   "data-mining",
                   "decision-trees",
@@ -1244,7 +1244,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T19:11:41.667Z",
+    "last_updated": "2026-10-30T18:49:30.132Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of research papers on decision, classification and regression trees with implementations.",
