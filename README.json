@@ -175,7 +175,7 @@
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39122,
+                "stars": 39126,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -305,7 +305,7 @@
                 "open_issues": 2,
                 "owner": "chong-z",
                 "repo": "tree-ensemble-attack",
-                "stars": 23,
+                "stars": 24,
                 "topics": [
                   "adversarial-attacks",
                   "decision-trees",
@@ -988,7 +988,7 @@
                 "open_issues": 1010,
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25851,
+                "stars": 25853,
                 "topics": [
                   "deep-learning",
                   "explainability",
@@ -1024,7 +1024,7 @@
                 "open_issues": 1010,
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25851,
+                "stars": 25853,
                 "topics": [
                   "deep-learning",
                   "explainability",
@@ -1063,10 +1063,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-11-02T19:27:12Z",
-                "open_issues": 532,
+                "open_issues": 534,
                 "owner": "lightgbm-org",
                 "repo": "LightGBM",
-                "stars": 18953,
+                "stars": 18952,
                 "topics": [
                   "data-mining",
                   "decision-trees",
@@ -1244,7 +1244,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T20:04:14.833Z",
+    "last_updated": "2026-11-07T18:16:59.134Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of research papers on decision, classification and regression trees with implementations.",
@@ -1256,7 +1256,7 @@
       "open_issues": 3,
       "owner": "benedekrozemberczki",
       "repo": "awesome-decision-tree-papers",
-      "stars": 2480,
+      "stars": 2481,
       "topics": [
         "cart",
         "catboost",
