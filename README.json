@@ -175,7 +175,7 @@
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39126,
+                "stars": 39137,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -984,8 +984,8 @@
                 "id": 74505259,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-11-03T15:35:42Z",
-                "open_issues": 1010,
+                "last_commit": "2026-11-08T15:14:32Z",
+                "open_issues": 1020,
                 "owner": "shap",
                 "repo": "shap",
                 "stars": 25853,
@@ -1020,8 +1020,8 @@
                 "id": 74505259,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-11-03T15:35:42Z",
-                "open_issues": 1010,
+                "last_commit": "2026-11-08T15:14:32Z",
+                "open_issues": 1020,
                 "owner": "shap",
                 "repo": "shap",
                 "stars": 25853,
@@ -1063,10 +1063,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-11-02T19:27:12Z",
-                "open_issues": 534,
+                "open_issues": 536,
                 "owner": "lightgbm-org",
                 "repo": "LightGBM",
-                "stars": 18952,
+                "stars": 18955,
                 "topics": [
                   "data-mining",
                   "decision-trees",
@@ -1244,7 +1244,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T18:16:59.134Z",
+    "last_updated": "2026-11-08T18:29:19.282Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of research papers on decision, classification and regression trees with implementations.",
@@ -1256,7 +1256,7 @@
       "open_issues": 3,
       "owner": "benedekrozemberczki",
       "repo": "awesome-decision-tree-papers",
-      "stars": 2481,
+      "stars": 2480,
       "topics": [
         "cart",
         "catboost",
