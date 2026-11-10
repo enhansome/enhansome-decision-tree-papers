@@ -175,7 +175,7 @@
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39145,
+                "stars": 39152,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -984,8 +984,8 @@
                 "id": 74505259,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-11-08T15:14:32Z",
-                "open_issues": 1024,
+                "last_commit": "2026-11-10T12:44:40Z",
+                "open_issues": 1021,
                 "owner": "shap",
                 "repo": "shap",
                 "stars": 25854,
@@ -1020,8 +1020,8 @@
                 "id": 74505259,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-11-08T15:14:32Z",
-                "open_issues": 1024,
+                "last_commit": "2026-11-10T12:44:40Z",
+                "open_issues": 1021,
                 "owner": "shap",
                 "repo": "shap",
                 "stars": 25854,
@@ -1062,11 +1062,11 @@
                 "id": 64991887,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-02T19:27:12Z",
-                "open_issues": 537,
+                "last_commit": "2026-11-10T02:13:21Z",
+                "open_issues": 536,
                 "owner": "lightgbm-org",
                 "repo": "LightGBM",
-                "stars": 18957,
+                "stars": 18964,
                 "topics": [
                   "data-mining",
                   "decision-trees",
@@ -1244,7 +1244,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T23:08:23.390Z",
+    "last_updated": "2026-11-10T20:35:27.726Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of research papers on decision, classification and regression trees with implementations.",
@@ -1256,7 +1256,7 @@
       "open_issues": 3,
       "owner": "benedekrozemberczki",
       "repo": "awesome-decision-tree-papers",
-      "stars": 2480,
+      "stars": 2481,
       "topics": [
         "cart",
         "catboost",
