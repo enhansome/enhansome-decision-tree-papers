@@ -171,11 +171,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T17:37:12Z",
+                "last_commit": "2026-11-14T12:36:20Z",
                 "open_issues": 2013,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39167,
+                "stars": 39175,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -207,7 +207,7 @@
                 "open_issues": 6,
                 "owner": "xiyanghu",
                 "repo": "OSDT",
-                "stars": 109,
+                "stars": 110,
                 "topics": [
                   "accelerate",
                   "acceleration-model",
@@ -652,7 +652,7 @@
                 "open_issues": 6,
                 "owner": "xiyanghu",
                 "repo": "OSDT",
-                "stars": 109,
+                "stars": 110,
                 "topics": [
                   "accelerate",
                   "acceleration-model",
@@ -694,7 +694,7 @@
                 "open_issues": 6,
                 "owner": "xiyanghu",
                 "repo": "OSDT",
-                "stars": 109,
+                "stars": 110,
                 "topics": [
                   "accelerate",
                   "acceleration-model",
@@ -984,11 +984,11 @@
                 "id": 74505259,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-11-13T14:23:17Z",
-                "open_issues": 1019,
+                "last_commit": "2026-11-14T09:09:25Z",
+                "open_issues": 1017,
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25861,
+                "stars": 25862,
                 "topics": [
                   "deep-learning",
                   "explainability",
@@ -1020,11 +1020,11 @@
                 "id": 74505259,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-11-13T14:23:17Z",
-                "open_issues": 1019,
+                "last_commit": "2026-11-14T09:09:25Z",
+                "open_issues": 1017,
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25861,
+                "stars": 25862,
                 "topics": [
                   "deep-learning",
                   "explainability",
@@ -1066,7 +1066,7 @@
                 "open_issues": 540,
                 "owner": "lightgbm-org",
                 "repo": "LightGBM",
-                "stars": 18976,
+                "stars": 18977,
                 "topics": [
                   "data-mining",
                   "decision-trees",
@@ -1244,7 +1244,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T20:38:46.722Z",
+    "last_updated": "2026-11-14T18:50:32.540Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of research papers on decision, classification and regression trees with implementations.",
