@@ -175,7 +175,7 @@
                 "open_issues": 2013,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39207,
+                "stars": 39223,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -985,10 +985,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-11-15T15:14:21Z",
-                "open_issues": 1022,
+                "open_issues": 1021,
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25867,
+                "stars": 25871,
                 "topics": [
                   "deep-learning",
                   "explainability",
@@ -1021,10 +1021,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-11-15T15:14:21Z",
-                "open_issues": 1022,
+                "open_issues": 1021,
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25867,
+                "stars": 25871,
                 "topics": [
                   "deep-learning",
                   "explainability",
@@ -1062,11 +1062,11 @@
                 "id": 64991887,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-17T21:46:49Z",
+                "last_commit": "2026-11-18T15:10:58Z",
                 "open_issues": 548,
                 "owner": "lightgbm-org",
                 "repo": "LightGBM",
-                "stars": 18990,
+                "stars": 18992,
                 "topics": [
                   "data-mining",
                   "decision-trees",
@@ -1244,7 +1244,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T21:54:03.744Z",
+    "last_updated": "2026-11-18T21:34:35.936Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of research papers on decision, classification and regression trees with implementations.",
