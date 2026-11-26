@@ -171,11 +171,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-25T20:54:44Z",
-                "open_issues": 2019,
+                "last_commit": "2026-11-26T08:37:24Z",
+                "open_issues": 2020,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39415,
+                "stars": 39522,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -985,10 +985,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-11-24T13:56:17Z",
-                "open_issues": 1027,
+                "open_issues": 1029,
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25899,
+                "stars": 25900,
                 "topics": [
                   "deep-learning",
                   "explainability",
@@ -1021,10 +1021,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-11-24T13:56:17Z",
-                "open_issues": 1027,
+                "open_issues": 1029,
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25899,
+                "stars": 25900,
                 "topics": [
                   "deep-learning",
                   "explainability",
@@ -1066,7 +1066,7 @@
                 "open_issues": 554,
                 "owner": "lightgbm-org",
                 "repo": "LightGBM",
-                "stars": 19012,
+                "stars": 19019,
                 "topics": [
                   "data-mining",
                   "decision-trees",
@@ -1244,7 +1244,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T22:44:01.067Z",
+    "last_updated": "2026-11-26T22:34:12.773Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of research papers on decision, classification and regression trees with implementations.",
