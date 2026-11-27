@@ -1,6 +1,6 @@
 # Awesome Decision, Classification, and Regression Tree Research Papers with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 543,387 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 543,926 | 🐛 103 | 📅 2026-09-02
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![repo size](https://img.shields.io/github/repo-size/benedekrozemberczki/awesome-decision-tree-papers.svg)](https://github.com/benedekrozemberczki/awesome-decision-tree-papers/archive/master.zip)
 ![License](https://img.shields.io/github/license/benedekrozemberczki/awesome-decision-tree-papers.svg?color=blue) [![benedekrozemberczki](https://img.shields.io/twitter/follow/benrozemberczki?style=social\&logo=twitter)](https://twitter.com/intent/follow?screen_name=benrozemberczki)
@@ -40,7 +40,7 @@ A curated list of classification and regression tree research papers with implem
   * [IJCAI](https://www.ijcai.org/)
   * [UAI](http://www.auai.org/)
 
-Similar collections about [graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification) ⭐ 4,805 | 🐛 0 | 🌐 Python | 📅 2023-03-18, [gradient boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) ⭐ 1,053 | 🐛 3 | 🌐 Python | 📅 2026-01-05, [fraud detection](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) ⭐ 1,844 | 🐛 3 | 🌐 Python | 📅 2026-01-05, [Monte Carlo tree search](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers) ⭐ 717 | 🐛 0 | 🌐 Python | 📅 2026-01-13, and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) ⭐ 2,453 | 🐛 0 | 🌐 Python | 📅 2025-12-20 papers with implementations.
+Similar collections about [graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification) ⭐ 4,805 | 🐛 0 | 🌐 Python | 📅 2023-03-18, [gradient boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) ⭐ 1,053 | 🐛 3 | 🌐 Python | 📅 2026-01-05, [fraud detection](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) ⭐ 1,845 | 🐛 3 | 🌐 Python | 📅 2026-01-05, [Monte Carlo tree search](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers) ⭐ 717 | 🐛 0 | 🌐 Python | 📅 2026-01-13, and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) ⭐ 2,453 | 🐛 0 | 🌐 Python | 📅 2025-12-20 papers with implementations.
 
 ## 2022
 
@@ -301,7 +301,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   * [\[Paper\]](https://arxiv.org/abs/2003.00360)
 
 * **The Tree Ensemble Layer: Differentiability meets Conditional Computation (ICML 2020)**
-  * [\[Code\]](https://github.com/google-research/google-research/tree/master/tf_trees) ⭐ 39,522 | 🐛 2,020 | 🌐 Jupyter Notebook | 📅 2026-11-26
+  * [\[Code\]](https://github.com/google-research/google-research/tree/master/tf_trees) ⭐ 39,564 | 🐛 2,023 | 🌐 Jupyter Notebook | 📅 2026-11-27
   * Hussein Hazimeh, Natalia Ponomareva, Petros Mol, Zhenyu Tan, Rahul Mazumder
   * [\[Paper\]](https://arxiv.org/abs/2002.07772)
 
@@ -437,7 +437,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   * [\[Paper\]](http://proceedings.mlr.press/v97/du19d.html)
 
 * **Adaptive Neural Trees (ICML 2019)**
-  * [\[Code\]](https://github.com/rtanno21609/AdaptiveNeuralTrees) ⭐ 156 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2019-07-03
+  * [\[Code\]](https://github.com/rtanno21609/AdaptiveNeuralTrees) ⭐ 155 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2019-07-03
   * Ryutaro Tanno, Kai Arulkumaran, Daniel C. Alexander, Antonio Criminisi, Aditya V. Nori
   * [\[Paper\]](https://arxiv.org/abs/1807.06699)
 
@@ -633,7 +633,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   * [\[Paper\]](http://proceedings.mlr.press/v70/si17a.html)
 
 * **Consistent Feature Attribution for Tree Ensembles (ICML 2017)**
-  * [\[Code\]](https://github.com/slundberg/shap) ⭐ 25,900 | 🐛 1,029 | 🌐 Jupyter Notebook | 📅 2026-11-24
+  * [\[Code\]](https://github.com/slundberg/shap) ⭐ 25,900 | 🐛 1,032 | 🌐 Jupyter Notebook | 📅 2026-11-24
   * Scott M. Lundberg, Su-In Lee
   * [\[Paper\]](https://arxiv.org/abs/1706.06060)
 
@@ -656,7 +656,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   * [\[Paper\]](https://papers.nips.cc/paper/6646-variable-importance-using-decision-trees)
 
 * **A Unified Approach to Interpreting Model Predictions (NIPS 2017)**
-  * [\[Code\]](https://github.com/slundberg/shap) ⭐ 25,900 | 🐛 1,029 | 🌐 Jupyter Notebook | 📅 2026-11-24
+  * [\[Code\]](https://github.com/slundberg/shap) ⭐ 25,900 | 🐛 1,032 | 🌐 Jupyter Notebook | 📅 2026-11-24
   * Scott M. Lundberg, Su-In Lee
   * [\[Paper\]](https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions)
 
@@ -1676,4 +1676,4 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._

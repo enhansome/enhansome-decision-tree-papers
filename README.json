@@ -171,11 +171,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-26T08:37:24Z",
-                "open_issues": 2020,
+                "last_commit": "2026-11-27T16:02:30Z",
+                "open_issues": 2023,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39522,
+                "stars": 39564,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -393,7 +393,7 @@
                 "open_issues": 2,
                 "owner": "rtanno21609",
                 "repo": "AdaptiveNeuralTrees",
-                "stars": 156,
+                "stars": 155,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:44.162Z"
@@ -985,7 +985,7 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-11-24T13:56:17Z",
-                "open_issues": 1029,
+                "open_issues": 1032,
                 "owner": "shap",
                 "repo": "shap",
                 "stars": 25900,
@@ -1021,7 +1021,7 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-11-24T13:56:17Z",
-                "open_issues": 1029,
+                "open_issues": 1032,
                 "owner": "shap",
                 "repo": "shap",
                 "stars": 25900,
@@ -1244,7 +1244,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T22:34:12.773Z",
+    "last_updated": "2026-11-27T22:18:49.368Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of research papers on decision, classification and regression trees with implementations.",
